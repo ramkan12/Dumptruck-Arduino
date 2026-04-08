@@ -8,8 +8,8 @@
 
 [🎥 Watch Demo](https://www.youtube.com/watch?v=MdCv9IWylZ0) • [📄 Full Documentation](docs/Showcase_Portfolio.pdf) • [⚡ Quick Start](#-quick-start)
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://docs.arduino.cc/arduino-cloud/guides/arduino-c/)
 ![Educational](https://img.shields.io/badge/Educational-K--12-orange?style=for-the-badge)
 ![Cost](https://img.shields.io/badge/Cost-$26-green?style=for-the-badge)
 ![Safety](https://img.shields.io/badge/Safety_Rating-9/10-brightgreen?style=for-the-badge)
