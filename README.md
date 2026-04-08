@@ -6,7 +6,7 @@
 
 **An educational hands-on robotics project designed for K-12 students to learn engineering principles**
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=MdCv9IWyJZ0) • [📄 Full Documentation](docs/Showcase_Portfolio.pdf) • [⚡ Quick Start](#-quick-start)
+[🎥 Watch Demo](https://www.youtube.com/watch?v=MdCv9IWylZ0) • [📄 Full Documentation](docs/Showcase_Portfolio.pdf) • [⚡ Quick Start](#-quick-start)
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
