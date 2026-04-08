@@ -6,7 +6,7 @@
 
 **An educational hands-on robotics project designed for K-12 students to learn engineering principles**
 
-[🎥 Watch Demo](https://www.youtube.com/watch?v=MdCv9IWyJZ0) • [📄 Full Documentation](docs/Showcase_Portfolio.pdf) • [⚡ Quick Start](#-quick-start)
+[🎥 Watch Demo](https://www.youtube.com/watch?v=MdCv9IWylZ0) • [📄 Full Documentation](docs/Showcase_Portfolio.pdf) • [⚡ Quick Start](#-quick-start)
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -49,7 +49,7 @@ This project features an autonomous dump truck that uses **three ultrasonic sens
 
 **Watch the truck in action:**
 
-[![Arduino Dump Truck Demo](https://img.youtube.com/vi/MdCv9IWyJZ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=MdCv9IWyJZ0)
+[![Arduino Dump Truck Demo](https://www.youtube.com/watch?v=MdCv9IWylZ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=MdCv9IWylZ0)
 
 > Click to watch full video demonstration
 
@@ -390,7 +390,7 @@ This project is **open-source** and available for educational use. Feel free to 
 
 ## 📚 Demo & Resources
 
-- **🎥 Video Demo**: [Watch on YouTube](https://www.youtube.com/watch?v=MdCv9IWyJZ0)
+- **🎥 Video Demo**: [Watch on YouTube](https://www.youtube.com/watch?v=MdCv9IWylZ0)
 - **📄 Full Documentation**: [Showcase Portfolio PDF](docs/Showcase_Portfolio.pdf)
 - **💬 Questions?**: Open an [issue](https://github.com/ramkan12/Arduino-Dumptruck/issues)
 
